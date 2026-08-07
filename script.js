@@ -24,7 +24,7 @@ return;
 }
 
 if(mother==""){
-alert("Enter Mother's Name");
+alert("Enter Mumma  Name");
 return;
 }
 
